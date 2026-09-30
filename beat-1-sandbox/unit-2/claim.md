@@ -1,0 +1,1 @@
+Hi maintainers, I’d like to work on this issue. I’m putting together a reproduction report with my environment details, commands, and test output for `_is_supported()`, and will post it here before opening a PR.
